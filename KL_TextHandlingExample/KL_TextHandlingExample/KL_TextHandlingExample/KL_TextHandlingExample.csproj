@@ -84,7 +84,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\KL_TextHandlingLib\KL_TextHandlingLib\KL_TextHandlingLib.csproj">
+    <ProjectReference Include="..\..\..\lib\KL_TextHandlingLib\KL_TextHandlingLib\KL_TextHandlingLib.csproj">
       <Project>{b50b3ba9-e329-4ca2-b298-6d64badb20e3}</Project>
       <Name>KL_TextHandlingLib</Name>
     </ProjectReference>

@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KL_TextHandlingExample", "KL_TextHandlingExample\KL_TextHandlingExample\KL_TextHandlingExample.csproj", "{78E1BEE5-BA0C-4311-8662-8F738A9617B4}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "KL_TextHandlingExampleContent", "KL_TextHandlingExample\KL_TextHandlingExampleContent\KL_TextHandlingExampleContent.contentproj", "{490B2FAE-ECB8-4CF8-A316-9C999448F209}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KL_TextHandlingExampleContent", "KL_TextHandlingExample\KL_TextHandlingExampleContent\KL_TextHandlingExampleContent.contentproj", "{490B2FAE-ECB8-4CF8-A316-9C999448F209}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KL_TextHandlingLib", "..\KL_TextHandlingLib\KL_TextHandlingLib\KL_TextHandlingLib.csproj", "{B50B3BA9-E329-4CA2-B298-6D64BADB20E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KL_TextHandlingLib", "..\lib\KL_TextHandlingLib\KL_TextHandlingLib\KL_TextHandlingLib.csproj", "{B50B3BA9-E329-4CA2-B298-6D64BADB20E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
