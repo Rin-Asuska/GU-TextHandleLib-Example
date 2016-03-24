@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KL_TextHandlingExample", "KL_TextHandlingExample\KL_TextHandlingExample\KL_TextHandlingExample.csproj", "{78E1BEE5-BA0C-4311-8662-8F738A9617B4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "KL_TextHandlingExampleContent", "KL_TextHandlingExample\KL_TextHandlingExampleContent\KL_TextHandlingExampleContent.contentproj", "{490B2FAE-ECB8-4CF8-A316-9C999448F209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KL_TextHandlingLib", "..\KL_TextHandlingLib\KL_TextHandlingLib\KL_TextHandlingLib.csproj", "{B50B3BA9-E329-4CA2-B298-6D64BADB20E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78E1BEE5-BA0C-4311-8662-8F738A9617B4}.Debug|x86.ActiveCfg = Debug|x86
+		{78E1BEE5-BA0C-4311-8662-8F738A9617B4}.Debug|x86.Build.0 = Debug|x86
+		{78E1BEE5-BA0C-4311-8662-8F738A9617B4}.Release|x86.ActiveCfg = Release|x86
+		{78E1BEE5-BA0C-4311-8662-8F738A9617B4}.Release|x86.Build.0 = Release|x86
+		{490B2FAE-ECB8-4CF8-A316-9C999448F209}.Debug|x86.ActiveCfg = Debug|x86
+		{490B2FAE-ECB8-4CF8-A316-9C999448F209}.Release|x86.ActiveCfg = Release|x86
+		{B50B3BA9-E329-4CA2-B298-6D64BADB20E3}.Debug|x86.ActiveCfg = Debug|x86
+		{B50B3BA9-E329-4CA2-B298-6D64BADB20E3}.Debug|x86.Build.0 = Debug|x86
+		{B50B3BA9-E329-4CA2-B298-6D64BADB20E3}.Release|x86.ActiveCfg = Release|x86
+		{B50B3BA9-E329-4CA2-B298-6D64BADB20E3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
